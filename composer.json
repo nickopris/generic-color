@@ -1,15 +1,7 @@
 
 {
-    "name": "nicktest/generic-color",
+    "name": "nicktest/genericcolor",
     "description": "Test.",
     "type": "project",
     "license": "GPL-2.0-or-later",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-
-    "autoload": {
-        "psr-4": {
-            "Drupal\\Core\\Composer\\": "core/lib/Drupal/Core/Composer"
-        }
-    }
 }
