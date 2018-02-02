@@ -3,5 +3,6 @@
     "name": "nicktest/genericcolor",
     "description": "Test.",
     "type": "project",
-    "license": "GPL-2.0-or-later"
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev"
 }
